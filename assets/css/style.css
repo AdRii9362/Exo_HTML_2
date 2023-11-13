@@ -8,12 +8,12 @@ body{
     border-image-source: url("../img/BackgroundGold.jpg");
     border-image-slice: 300;
 
-
     display:grid;
     grid-template-rows: repeat(3,1fr) ;
     grid-template-columns: 33% 1fr;
 
     }
+
     
 
     article {
